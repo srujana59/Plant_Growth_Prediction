@@ -1,8 +1,8 @@
-numpy
+streamlit
 pandas
-scikit-learn
-imbalanced-learn
+numpy
 matplotlib
 seaborn
+scikit-learn
+imbalanced-learn
 plotly
-streamlit
